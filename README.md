@@ -13,7 +13,7 @@ What are my stream priorities and projects in 2022?
 ## Goals
 - Begin a Cardano related project (with plutus or marlowe)
 - Begin to use [Nix package manager](https://nixos.org/)
-- Begin to use [Dhall language](https://dhall-lang.org/)
+- Use more [Dhall language](https://dhall-lang.org/)
 - Test [Flox](http://floxdev.com/)
 - Keep live coding through learning and OSS
 
