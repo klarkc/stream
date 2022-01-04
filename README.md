@@ -22,4 +22,3 @@ What are my stream priorities and projects in 2022?
 - [ ] [PureScript by Example](https://book.purescript.org/) (in progress)
 - [ ] [PureScript Differences from Haskell](https://github.com/purescript/documentation/blob/master/language/Differences-from-Haskell.md)
 - [ ] [Functional Programming Made Easier](https://leanpub.com/fp-made-easier)
-- [ ] [Domain Modeling Made Functional](https://pragprog.com/titles/swdddf/domain-modeling-made-functional)
