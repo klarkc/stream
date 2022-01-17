@@ -6,11 +6,12 @@ What are my stream priorities and projects in 2022?
 
 ## Projects
 
-- Improve my english :weary:
+- [Plutus Pioneer Program](https://github.com/input-output-hk/plutus-pioneer-program) (in progress)
 - [pure-vue](https://github.com/klarkc/pure-vue)
 - AST transforming of TypeScript Vue types (https://github.com/purescript-codegen/purescript-read-dts/)
 
 ## Goals
+- Improve my english :weary:
 - Begin a Cardano related project (with plutus or marlowe)
 - Begin to use [Nix package manager](https://nixos.org/)
 - Use more [Dhall language](https://dhall-lang.org/)
@@ -20,5 +21,5 @@ What are my stream priorities and projects in 2022?
 ## Reading Queue
 
 - [ ] [PureScript by Example](https://book.purescript.org/) (in progress)
-- [ ] [PureScript Differences from Haskell](https://github.com/purescript/documentation/blob/master/language/Differences-from-Haskell.md)
+- [x] [PureScript Differences from Haskell](https://github.com/purescript/documentation/blob/master/language/Differences-from-Haskell.md)
 - [ ] [Functional Programming Made Easier](https://leanpub.com/fp-made-easier)
