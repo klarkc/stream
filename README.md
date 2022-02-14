@@ -1,6 +1,7 @@
 # stream
 
 [![KlarkC](https://img.shields.io/badge/twitch.tv-klarkc-purple?logo=twitch&style=for-the-badge)](https://twitch.tv/klarkc)
+[![dotfiles](https://img.shields.io/badge/dotfiles-darkgreen?style=for-the-badge)](https://github.com/klarkc/dotfiles)
 
 What are my stream priorities and projects in 2022?
 
