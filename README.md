@@ -7,7 +7,7 @@ What are my stream priorities and projects in 2022?
 
 ## Projects
 
-- [Apexaverse](https://github.com/apexaverse) (in progress)
+- [Apexaverse](https://github.com/Apexaverse-metaverse) (in progress)
 - AST transforming of TypeScript Vue types (https://github.com/purescript-codegen/purescript-read-dts/)
 - [pure-vue](https://github.com/klarkc/pure-vue)
 
