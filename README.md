@@ -7,9 +7,9 @@ What are my stream priorities and projects in 2022?
 
 ## Projects
 
-- [Plutus Pioneer Program](https://github.com/input-output-hk/plutus-pioneer-program) (in progress)
-- [pure-vue](https://github.com/klarkc/pure-vue)
+- [Apexaverse](https://github.com/apexaverse) (in progress)
 - AST transforming of TypeScript Vue types (https://github.com/purescript-codegen/purescript-read-dts/)
+- [pure-vue](https://github.com/klarkc/pure-vue)
 
 ## Goals
 - Improve my english :weary:
@@ -21,6 +21,7 @@ What are my stream priorities and projects in 2022?
 
 ## Studying Queue
 
+- [ ] [Plutus Pioneer Program](https://github.com/input-output-hk/plutus-pioneer-program) (in progress)
 - [ ] [PureScript by Example](https://book.purescript.org/) (in progress)
 - [ ] [Category theory for programmers by Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 - [x] [PureScript Differences from Haskell](https://github.com/purescript/documentation/blob/master/language/Differences-from-Haskell.md)
