@@ -21,7 +21,7 @@ What are my stream priorities and projects in 2022?
 
 ## Studying Queue
 
-- [x] [Plutus Pioneer Program](https://github.com/input-output-hk/plutus-pioneer-program)
+- [x] [Plutus Pioneer Program](https://github.com/klarkc/plutus-pioneer-program)
 - [ ] [Category theory for programmers by Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 - [ ] [PureScript by Example](https://book.purescript.org/) (in progress)
 - [x] [PureScript Differences from Haskell](https://github.com/purescript/documentation/blob/master/language/Differences-from-Haskell.md)
