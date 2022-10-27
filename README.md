@@ -10,7 +10,8 @@ What are my stream priorities and projects in 2022?
 
 - [plutus-experience](https://github.com/LovelaceAcademy/plutus-experience)
 - [Node.ChildProcess.Aff](https://github.com/purescript-node/purescript-node-child-process/pull/37)
-- [pure-vue](https://github.com/klarkc/pure-vue)
+- [purs-eval](https://github.com/klarkc/purs-eval)
+- [pure-vue](https://github.com/klarkc/pure-vue/pull/10)
 
 ## Goals
 - Improve my english :weary:
