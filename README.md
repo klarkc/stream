@@ -9,6 +9,7 @@ What are my stream priorities and projects in 2022?
 ## Projects
 
 - [PlutusExperience](https://github.com/LovelaceAcademy/PlutusExperience)
+- [Nix Templates](https://github.com/LovelaceAcademy/nix-templates)
 - [Node.ChildProcess.Aff](https://github.com/purescript-node/purescript-node-child-process/pull/37)
 - [purs-eval](https://github.com/klarkc/purs-eval)
 - [pure-vue](https://github.com/klarkc/pure-vue/pull/10)
