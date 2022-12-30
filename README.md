@@ -17,6 +17,7 @@ What are my stream priorities and projects in 2023?
 ## Goals
 - Improve my english :weary:
 - Build a successful dapp with [CTL](https://github.com/Plutonomicon/cardano-transaction-lib)
+- I want to build a new setup using NixOS and BTRFS
 
 ## Studying Queue
 
