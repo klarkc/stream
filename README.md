@@ -22,7 +22,7 @@ What are my stream priorities and projects in 2023?
 
 - [x] [Plutus Pioneer Program](https://github.com/klarkc/plutus-pioneer-program)
 - [ ] [Category theory for programmers by Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
-- [~] [PureScript by Example](https://github.com/klarkc/purescript-book) (come on, just 3 more chapters)
+- [ ] [PureScript by Example](https://github.com/klarkc/purescript-book) (come on, just 3 more chapters)
 - [ ] [Generics](https://harry.garrood.me/blog/write-your-own-generics/)
 - [x] [PureScript Differences from Haskell](https://github.com/purescript/documentation/blob/master/language/Differences-from-Haskell.md)
 - [ ] [Functional Programming Made Easier](https://leanpub.com/fp-made-easier)
