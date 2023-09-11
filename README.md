@@ -8,16 +8,12 @@ What are my stream priorities and projects in 2023?
 
 ## Projects
 
-- [PlutusExperience](https://github.com/LovelaceAcademy/PlutusExperience)
-- [Node.ChildProcess.Aff](https://github.com/purescript-node/purescript-node-child-process/pull/37)
-- [purs-eval](https://github.com/klarkc/purs-eval)
-- [nix-templates](https://github.com/LovelaceAcademy/nix-templates)
-- [pure-vue](https://github.com/klarkc/pure-vue/pull/10)
+(see [my resume](https://resume-klarkc.vercel.app))
 
 ## Goals
-- Improve my english :weary:
-- Build a successful dapp with [CTL](https://github.com/Plutonomicon/cardano-transaction-lib)
-- I want to build a new setup using NixOS and BTRFS
+- (wip) Improve my english :weary:
+- I would like to eventually build a PureScript backend (that's the dream :D)
+- ([very wip](https://github.com/klarkc/os/blob/add-flake)) I want to build a new setup using NixOS and BTRFS with the [purescript nix backend](https://github.com/purenix-org/purenix).
 
 ## Studying Queue
 
@@ -26,6 +22,5 @@ What are my stream priorities and projects in 2023?
 - [ ] [PureScript by Example](https://github.com/klarkc/purescript-book) (come on, just 3 more chapters)
 - [ ] [Generics](https://harry.garrood.me/blog/write-your-own-generics/)
 - [x] [PureScript Differences from Haskell](https://github.com/purescript/documentation/blob/master/language/Differences-from-Haskell.md)
-- [ ] [Functional Programming Made Easier](https://leanpub.com/fp-made-easier)
-- [ ] [Profunctor Lenses](https://thomashoneyman.com/articles/practical-profunctor-lenses-optics)
-- [ ] I want to go deeper on Crypto and ZK proofs, accepting suggestions
+- [ ] [PS Unscripted - Free From Tree & Halogen VDOM](https://www.youtube.com/watch?v=eKkxmVFcd74)
+- [ ] I want to explore more about Free and CoFree on development of interpreters (accepting suggestions).
