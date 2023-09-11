@@ -22,5 +22,5 @@ What are my stream priorities and projects in 2023?
 - [ ] [PureScript by Example](https://github.com/klarkc/purescript-book) (come on, just 3 more chapters)
 - [ ] [Generics](https://harry.garrood.me/blog/write-your-own-generics/)
 - [x] [PureScript Differences from Haskell](https://github.com/purescript/documentation/blob/master/language/Differences-from-Haskell.md)
-- [ ] [PS Unscripted - Free From Tree & Halogen VDOM](https://www.youtube.com/watch?v=eKkxmVFcd74)
+- [x] [PS Unscripted - Free From Tree & Halogen VDOM](https://www.youtube.com/watch?v=eKkxmVFcd74)
 - [ ] I want to explore more about Free and CoFree on development of interpreters (accepting suggestions).
